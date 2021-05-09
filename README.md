@@ -38,3 +38,5 @@ Training a model with specific epochs:
 ```
   $ python main.py --epochs 30
 ```
+
+(Would require amandroid based jar file to extract API sequence graphs.)
