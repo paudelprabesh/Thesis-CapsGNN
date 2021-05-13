@@ -15,6 +15,7 @@ numpy       1.16.2
 scipy       1.4.1
 tensorflow  1.12.2
 ```
+It can run on tensorflow 1.15 and the latest version of the other packages when this thesis was submitted.
 
 ### Usage
 
