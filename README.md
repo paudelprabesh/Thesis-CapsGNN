@@ -16,6 +16,7 @@ scipy       1.4.1
 tensorflow  1.12.2
 ```
 It can run on tensorflow 1.15 and the latest version of the other packages when this thesis was submitted.
+Beaware though, of CuDNN errors that might surface, fix would be point cuDNN installation to correct cuDNN version directory.
 
 ### Usage
 
