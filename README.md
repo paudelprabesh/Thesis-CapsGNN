@@ -41,7 +41,7 @@ All the hyperparameters can be set in `config.py`. Training a model by using def
 
 Training a model with specific epochs:
 ```
-  $ python main.py --epochs 30
+  $ python main.py --epochs 10
 ```
 
 (Would require amandroid based jar file to extract API sequence graphs.)
